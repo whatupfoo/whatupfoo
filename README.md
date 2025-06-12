@@ -5,13 +5,6 @@
 - 🛍️ Currently at Shopify
 
 ## 🌱 I’m currently learning ...
-- Remix framework
+- React Router 7
 - Shopify's Headless framework - Hydrogen
-
-## 📫 How to reach me: ...
-- :octocat: Alter-ego: `@ipity-thefoo`
-- 📷 Instagram: `@foo_me_twice` 
-
-## 🤔 I’m looking for help with ...
-- More username puns
 
